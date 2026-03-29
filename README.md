@@ -16,7 +16,7 @@ Claude will automatically:
 
 ## Demo
 
-![Demo screenshot](demo.png)
+![Demo screenshot](https://github.com/Anshika-sona/git-blame-explainer-mcp/blob/main/Screenshot%202026-03-29%20154707.png)
 
 ## Tools
 
